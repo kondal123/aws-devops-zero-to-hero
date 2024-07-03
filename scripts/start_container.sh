@@ -2,6 +2,7 @@
 set -e
 
 # Pull the Docker image from Docker Hub
+#pull
 docker pull aws2rk/simple-python-flask-app
 
 # Run the Docker image as a container
