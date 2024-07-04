@@ -3,4 +3,4 @@ set -e
 
 # Stop the running container (if any)
 #  needed to change here
-echo "Hi there"
+echo "Hi there first deployment"
